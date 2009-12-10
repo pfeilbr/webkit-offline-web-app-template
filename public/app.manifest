@@ -1,0 +1,8 @@
+CACHE MANIFEST
+
+# NOTE: this file must be server with a mime type of "text/cache-manifest"
+# application v34
+
+config.json
+libs/jquery/1.3/jquery.min.js
+stylesheets/main.css
