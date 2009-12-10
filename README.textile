@@ -1,4 +1,4 @@
-h1. offline-web-app-template
+h1. webkit-offline-web-app-template
 
-an HTML5 offline web app template
+an webkit offline web app template
 
